@@ -1,6 +1,6 @@
-name: 'Deploy to Vercel Action'
+name: 'Deploy to Vercel Action (Runtime variables supported)'
 description: 'Deploy your project to Vercel using GitHub Actions. Supports PR previews and GitHub deployments.'
-author: 'BetaHuhn'
+author: 'RowanRyan'
 
 inputs:
   GITHUB_TOKEN:
